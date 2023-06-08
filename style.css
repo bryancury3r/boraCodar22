@@ -1,0 +1,15 @@
+* {
+    margin: 0;
+    padding: 0;
+    boz-sizing: border-box;
+    -webkit-font-smooth: antialiased;
+}
+
+body {
+    background: linear-gradient(107.54deg, #935fd3 0%, #9245f1);
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    font-family: 'Heebo', sans-serif;
+}
